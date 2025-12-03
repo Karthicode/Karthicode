@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik Ananthnarayan</h1>
 <h3 align="center">A passionate Tech Enthusiast and Software Developer from India</h3>
 
-- 🔭 I’m currently working on **MyOrgano**
+- 🔭 I’m currently working on **Youtube Manager AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
